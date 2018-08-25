@@ -1,0 +1,608 @@
+﻿Log file open, 08/24/18 23:33:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BrainDead
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.300710
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.210s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: -EpicPortal 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.25-03.33.57:166][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.25-03.33.57:166][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.25-03.33.57:177][  0]LogHAL: Display: Platform has ~ 16 GB [17024655360 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.08.25-03.33.57:177][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.08.25-03.33.57:177][  0]LogInit: Going up to parent DeviceProfile []
+[2018.08.25-03.33.57:177][  0]LogInit: Computer: DESKTOP-Q8QJJC8
+[2018.08.25-03.33.57:177][  0]LogInit: User: MYCreates
+[2018.08.25-03.33.57:177][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.25-03.33.57:178][  0]LogInit: High frequency timer resolution =2.742187 MHz
+[2018.08.25-03.33.57:178][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.08.25-03.33.57:178][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.25-03.33.57:178][  0]LogMemory: Process Physical Memory: 100.75 MB used, 100.75 MB peak
+[2018.08.25-03.33.57:178][  0]LogMemory: Process Virtual Memory: 89.61 MB used, 89.61 MB peak
+[2018.08.25-03.33.57:178][  0]LogMemory: Physical Memory: 8538.95 MB used,  7697.03 MB free, 16235.98 MB total
+[2018.08.25-03.33.57:178][  0]LogMemory: Virtual Memory: 4643.33 MB used,  7697.03 MB free, 134217728.00 MB total
+[2018.08.25-03.33.57:203][  0]LogInit: Using OS detected language (fr-FR).
+[2018.08.25-03.33.57:203][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.08.25-03.33.57:205][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.08.25-03.33.57:207][  0]LogStreaming: Display: Took  0.004s to InitEngineTextLocalization.
+[2018.08.25-03.33.57:207][  0]LogInit: Setting process to per monitor DPI aware
+[2018.08.25-03.33.57:243][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.08.25-03.33.57:243][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.08.25-03.33.57:518][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.25-03.33.57:518][  0]LogD3D11RHI: D3D11 adapters:
+[2018.08.25-03.33.57:588][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.08.25-03.33.57:588][  0]LogD3D11RHI:       4031/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.08.25-03.33.57:602][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.08.25-03.33.57:602][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.08.25-03.33.57:606][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.08.25-03.33.57:606][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.08.25-03.33.57:606][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.08.25-03.33.57:642][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.08.25-03.33.57:642][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.08.25-03.33.57:642][  0]LogWindows: EnumDisplayDevices:
+[2018.08.25-03.33.57:642][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.08.25-03.33.57:643][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2018.08.25-03.33.57:644][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.08.25-03.33.57:644][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.08.25-03.33.57:644][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.08.25-03.33.57:644][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.08.25-03.33.57:644][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.08.25-03.33.57:644][  0]LogRHI: Texture pool is 2821 MB (70% of 4031 MB)
+[2018.08.25-03.33.57:697][  0]LogD3D11RHI: Async texture creation enabled
+[2018.08.25-03.33.57:722][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.08.25-03.33.57:724][  0]LogShaderCompilers: Guid format shader working directory is -29 characters bigger than the processId version (../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Intermediate/Shaders/WorkingDirectory/19308/).
+[2018.08.25-03.33.57:725][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/marvi/AppData/Local/Temp/UnrealShaderWorkingDir/E444179C4A8F5AB9F03148B8F00E024F/'.
+[2018.08.25-03.33.58:077][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.08.25-03.33.58:091][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.08.25-03.33.58:106][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.08.25-03.33.58:121][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.08.25-03.33.58:136][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.08.25-03.33.58:151][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.25-03.33.58:167][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.25-03.33.58:181][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.25-03.33.58:188][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:284][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:285][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.08.25-03.33.58:286][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.08.25-03.33.58:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.25-03.33.58:351][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.08.25-03.33.58:380][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.25-03.33.58:380][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.08.25-03.33.58:395][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.08.25-03.33.58:414][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.08.25-03.33.58:431][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.08.25-03.33.58:449][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.08.25-03.33.58:467][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.08.25-03.33.58:468][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.25-03.33.58:545][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.25-03.33.58:545][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.25-03.33.58:545][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.25-03.33.59:516][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.25-03.33.59:583][  0]LogDerivedDataCache: Loaded boot cache 0.07s 71MB C:/Users/marvi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.25-03.33.59:584][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/marvi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.08.25-03.33.59:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.25-03.33.59:584][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.25-03.33.59:584][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.25-03.33.59:584][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.25-03.33.59:598][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.25-03.33.59:612][  0]LogDerivedDataCache: Using Local data cache path C:/Users/marvi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.25-03.33.59:612][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.25-03.33.59:612][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.25-03.33.59:632][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.08.25-03.33.59:634][  0]LogSlate: Using FreeType 2.6.0
+[2018.08.25-03.33.59:634][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.08.25-03.33.59:714][  0]LogAssetRegistry: FAssetRegistry took 0.0265 seconds to start up
+[2018.08.25-03.34.00:136][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.25-03.34.00:286][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.25-03.34.00:290][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.25-03.34.00:290][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.08.25-03.34.00:290][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.25-03.34.00:290][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.25-03.34.00:316][  0]LogNetVersion: BrainDead 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1185236536)
+[2018.08.25-03.34.01:034][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.147508 seconds
+[2018.08.25-03.34.01:042][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.08.25-03.34.01:042][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.08.25-03.34.01:042][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.25-03.34.02:072][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.25-03.34.02:096][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.25-03.34.02:272][  0]SourceControl: Source control is disabled
+[2018.08.25-03.34.02:272][  0]SourceControl: Source control is disabled
+[2018.08.25-03.34.02:275][  0]SourceControl: Source control is disabled
+[2018.08.25-03.34.02:277][  0]SourceControl: Source control is disabled
+[2018.08.25-03.34.02:491][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.25-03.34.02:626][  0]LogOcInput: OculusInput pre-init called
+[2018.08.25-03.34.02:703][  0]LogEngine: Initializing Engine...
+[2018.08.25-03.34.02:704][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.08.25-03.34.02:706][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.25-03.34.02:706][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.25-03.34.02:706][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.25-03.34.02:706][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.25-03.34.02:993][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.08.25-03.34.03:016][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.08.25-03.34.03:116][  0]LogInit: XAudio2 using 'Casque (2- SteelSeries Arctis 7 Game)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.25-03.34.03:177][  0]LogInit: FAudioDevice initialized.
+[2018.08.25-03.34.03:177][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.08.25-03.34.03:230][  0]LogDerivedDataCache: Saved boot cache 0.05s 71MB C:/Users/marvi/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.08.25-03.34.03:238][  0]LogInit: Texture streaming: Enabled
+[2018.08.25-03.34.03:260][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.08.25-03.34.03:276][  0]LogInit: Transaction tracking system initialized
+[2018.08.25-03.34.03:303][  0]BlueprintLog: New page: Editor Load
+[2018.08.25-03.34.03:451][  0]LocalizationService: Localization service is disabled
+[2018.08.25-03.34.03:829][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.08.25-03.34.03:829][  0]LogCook: Display: Mobile HDR setting 1
+[2018.08.25-03.34.03:829][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.25-03.34.03:829][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.08.25-03.34.03:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.25-03.34.03:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.08.25-03.34.03:830][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.25-03.34.03:939][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/' took 0.01s
+[2018.08.25-03.34.03:991][  0]SourceControl: Source control is disabled
+[2018.08.25-03.34.03:996][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.20/FeaturePacks/StarterContent.upack)
+[2018.08.25-03.34.04:006][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2018.08.25-03.34.04:009][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2018.08.25-03.34.04:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2018.08.25-03.34.04:014][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2018.08.25-03.34.04:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2018.08.25-03.34.04:018][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2018.08.25-03.34.04:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2018.08.25-03.34.04:022][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2018.08.25-03.34.04:024][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2018.08.25-03.34.04:027][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2018.08.25-03.34.04:029][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2018.08.25-03.34.04:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2018.08.25-03.34.04:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Collapse01.uasset"
+[2018.08.25-03.34.04:038][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Collapse02.uasset"
+[2018.08.25-03.34.04:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2018.08.25-03.34.04:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Explosion01.uasset"
+[2018.08.25-03.34.04:045][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Explosion02.uasset"
+[2018.08.25-03.34.04:047][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2018.08.25-03.34.04:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Fire01.uasset"
+[2018.08.25-03.34.04:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2018.08.25-03.34.04:058][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2018.08.25-03.34.04:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2018.08.25-03.34.04:063][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Light01.uasset"
+[2018.08.25-03.34.04:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2018.08.25-03.34.04:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Light02.uasset"
+[2018.08.25-03.34.04:069][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2018.08.25-03.34.04:073][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Smoke01.uasset"
+[2018.08.25-03.34.04:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2018.08.25-03.34.04:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2018.08.25-03.34.04:091][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2018.08.25-03.34.04:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2018.08.25-03.34.04:127][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2018.08.25-03.34.04:138][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2018.08.25-03.34.04:148][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2018.08.25-03.34.04:153][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Steam01.uasset"
+[2018.08.25-03.34.04:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2018.08.25-03.34.04:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2018.08.25-03.34.04:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2018.08.25-03.34.04:161][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2018.08.25-03.34.04:162][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2018.08.25-03.34.04:164][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2018.08.25-03.34.04:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2018.08.25-03.34.04:168][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2018.08.25-03.34.04:172][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2018.08.25-03.34.04:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2018.08.25-03.34.04:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2018.08.25-03.34.04:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2018.08.25-03.34.04:179][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2018.08.25-03.34.04:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2018.08.25-03.34.04:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2018.08.25-03.34.04:190][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2018.08.25-03.34.04:192][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2018.08.25-03.34.04:474][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2018.08.25-03.34.04:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2018.08.25-03.34.04:483][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2018.08.25-03.34.04:488][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Maps/Minimal_Default.umap"
+[2018.08.25-03.34.04:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2018.08.25-03.34.04:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Maps/StarterMap.umap"
+[2018.08.25-03.34.04:630][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2018.08.25-03.34.04:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2018.08.25-03.34.04:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2018.08.25-03.34.04:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2018.08.25-03.34.04:639][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2018.08.25-03.34.04:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2018.08.25-03.34.04:643][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2018.08.25-03.34.04:645][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2018.08.25-03.34.04:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2018.08.25-03.34.04:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2018.08.25-03.34.04:653][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2018.08.25-03.34.04:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2018.08.25-03.34.04:659][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2018.08.25-03.34.04:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2018.08.25-03.34.04:664][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2018.08.25-03.34.04:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2018.08.25-03.34.04:669][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2018.08.25-03.34.04:671][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2018.08.25-03.34.04:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Glass.uasset"
+[2018.08.25-03.34.04:675][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2018.08.25-03.34.04:678][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2018.08.25-03.34.04:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2018.08.25-03.34.04:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2018.08.25-03.34.04:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2018.08.25-03.34.04:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2018.08.25-03.34.04:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2018.08.25-03.34.04:692][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2018.08.25-03.34.04:695][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2018.08.25-03.34.04:697][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2018.08.25-03.34.04:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2018.08.25-03.34.04:702][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2018.08.25-03.34.04:705][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2018.08.25-03.34.04:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2018.08.25-03.34.04:709][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2018.08.25-03.34.04:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2018.08.25-03.34.04:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2018.08.25-03.34.04:717][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2018.08.25-03.34.04:720][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2018.08.25-03.34.04:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2018.08.25-03.34.04:725][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2018.08.25-03.34.04:727][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2018.08.25-03.34.04:729][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2018.08.25-03.34.04:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2018.08.25-03.34.04:734][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2018.08.25-03.34.04:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2018.08.25-03.34.04:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/P_Explosion.uasset"
+[2018.08.25-03.34.04:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/P_Fire.uasset"
+[2018.08.25-03.34.04:744][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/P_Smoke.uasset"
+[2018.08.25-03.34.04:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/P_Sparks.uasset"
+[2018.08.25-03.34.04:749][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2018.08.25-03.34.04:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2018.08.25-03.34.04:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2018.08.25-03.34.04:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2018.08.25-03.34.04:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2018.08.25-03.34.04:761][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2018.08.25-03.34.04:764][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2018.08.25-03.34.04:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2018.08.25-03.34.04:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2018.08.25-03.34.04:771][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2018.08.25-03.34.04:773][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2018.08.25-03.34.04:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/MaterialSphere.uasset"
+[2018.08.25-03.34.04:778][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Bush.uasset"
+[2018.08.25-03.34.04:781][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Chair.uasset"
+[2018.08.25-03.34.04:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2018.08.25-03.34.04:787][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Couch.uasset"
+[2018.08.25-03.34.04:790][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Door.uasset"
+[2018.08.25-03.34.04:792][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2018.08.25-03.34.04:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2018.08.25-03.34.04:798][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2018.08.25-03.34.04:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2018.08.25-03.34.04:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2018.08.25-03.34.04:813][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2018.08.25-03.34.04:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2018.08.25-03.34.04:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Rock.uasset"
+[2018.08.25-03.34.04:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Shelf.uasset"
+[2018.08.25-03.34.04:823][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Stairs.uasset"
+[2018.08.25-03.34.04:827][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_Statue.uasset"
+[2018.08.25-03.34.04:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_TableRound.uasset"
+[2018.08.25-03.34.04:833][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2018.08.25-03.34.04:836][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2018.08.25-03.34.04:838][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2018.08.25-03.34.04:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2018.08.25-03.34.04:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2018.08.25-03.34.04:845][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2018.08.25-03.34.04:847][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2018.08.25-03.34.04:849][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2018.08.25-03.34.04:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2018.08.25-03.34.04:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2018.08.25-03.34.04:857][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2018.08.25-03.34.04:859][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2018.08.25-03.34.04:861][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2018.08.25-03.34.04:864][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2018.08.25-03.34.04:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2018.08.25-03.34.04:866][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2018.08.25-03.34.04:869][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2018.08.25-03.34.04:871][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2018.08.25-03.34.04:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2018.08.25-03.34.04:876][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2018.08.25-03.34.04:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2018.08.25-03.34.04:879][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2018.08.25-03.34.04:882][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2018.08.25-03.34.04:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2018.08.25-03.34.04:888][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2018.08.25-03.34.04:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2018.08.25-03.34.04:893][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2018.08.25-03.34.04:894][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2018.08.25-03.34.04:897][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2018.08.25-03.34.04:899][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2018.08.25-03.34.04:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2018.08.25-03.34.04:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2018.08.25-03.34.04:933][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2018.08.25-03.34.04:969][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2018.08.25-03.34.05:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2018.08.25-03.34.05:033][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2018.08.25-03.34.05:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2018.08.25-03.34.05:115][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2018.08.25-03.34.05:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2018.08.25-03.34.05:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2018.08.25-03.34.05:252][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2018.08.25-03.34.05:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2018.08.25-03.34.05:310][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2018.08.25-03.34.05:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2018.08.25-03.34.05:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2018.08.25-03.34.05:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2018.08.25-03.34.05:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2018.08.25-03.34.05:390][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2018.08.25-03.34.05:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2018.08.25-03.34.05:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2018.08.25-03.34.05:399][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2018.08.25-03.34.05:408][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2018.08.25-03.34.05:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2018.08.25-03.34.05:462][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2018.08.25-03.34.05:469][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2018.08.25-03.34.05:515][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2018.08.25-03.34.05:529][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2018.08.25-03.34.05:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2018.08.25-03.34.05:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2018.08.25-03.34.05:595][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2018.08.25-03.34.05:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2018.08.25-03.34.05:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2018.08.25-03.34.05:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2018.08.25-03.34.05:742][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2018.08.25-03.34.05:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2018.08.25-03.34.05:821][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2018.08.25-03.34.05:842][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2018.08.25-03.34.05:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2018.08.25-03.34.05:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2018.08.25-03.34.05:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2018.08.25-03.34.05:946][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2018.08.25-03.34.05:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Door_M.uasset"
+[2018.08.25-03.34.05:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Door_N.uasset"
+[2018.08.25-03.34.05:961][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2018.08.25-03.34.05:976][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2018.08.25-03.34.05:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2018.08.25-03.34.05:985][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2018.08.25-03.34.05:990][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2018.08.25-03.34.05:998][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2018.08.25-03.34.06:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2018.08.25-03.34.06:067][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2018.08.25-03.34.06:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2018.08.25-03.34.06:176][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2018.08.25-03.34.06:210][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2018.08.25-03.34.06:266][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2018.08.25-03.34.06:304][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2018.08.25-03.34.06:309][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2018.08.25-03.34.06:319][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2018.08.25-03.34.06:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2018.08.25-03.34.06:404][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2018.08.25-03.34.06:442][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2018.08.25-03.34.06:481][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2018.08.25-03.34.06:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2018.08.25-03.34.06:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2018.08.25-03.34.06:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2018.08.25-03.34.06:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2018.08.25-03.34.06:609][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2018.08.25-03.34.06:641][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2018.08.25-03.34.06:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2018.08.25-03.34.06:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2018.08.25-03.34.06:718][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2018.08.25-03.34.06:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2018.08.25-03.34.06:775][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2018.08.25-03.34.06:815][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2018.08.25-03.34.06:850][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2018.08.25-03.34.06:903][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2018.08.25-03.34.06:945][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2018.08.25-03.34.06:981][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2018.08.25-03.34.06:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2018.08.25-03.34.06:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2018.08.25-03.34.06:997][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2018.08.25-03.34.07:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2018.08.25-03.34.07:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2018.08.25-03.34.07:015][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2018.08.25-03.34.07:020][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2018.08.25-03.34.07:025][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2018.08.25-03.34.07:031][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2018.08.25-03.34.07:040][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2018.08.25-03.34.07:042][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2018.08.25-03.34.07:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2018.08.25-03.34.07:051][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2018.08.25-03.34.07:057][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2018.08.25-03.34.07:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2018.08.25-03.34.07:075][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2018.08.25-03.34.07:086][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Water_M.uasset"
+[2018.08.25-03.34.07:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Water_N.uasset"
+[2018.08.25-03.34.07:123][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2018.08.25-03.34.07:143][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2018.08.25-03.34.07:157][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2018.08.25-03.34.07:182][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2018.08.25-03.34.07:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2018.08.25-03.34.07:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2018.08.25-03.34.07:420][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2018.08.25-03.34.07:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2018.08.25-03.34.07:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2018.08.25-03.34.07:585][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2018.08.25-03.34.07:668][  0]LogSavePackage: Moving '../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Saved/Floor_400x4004F98D7854945ACACCF7D62873E076421.tmp' to '../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2018.08.25-03.34.07:672][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2018.08.25-03.34.07:674][  0]Cmd: MAP LOAD FILE="../../../../../../Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/TopDownBP/Maps/TopDownExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.08.25-03.34.07:675][  0]LightingResults: New page: Lighting Build
+[2018.08.25-03.34.07:677][  0]MapCheck: New page: Map Check
+[2018.08.25-03.34.07:677][  0]LightingResults: New page: Lighting Build
+[2018.08.25-03.34.08:267][  0]LogAIModule: Creating AISystem for world TopDownExampleMap
+[2018.08.25-03.34.08:298][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.08.25-03.34.08:331][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.08.25-03.34.08:448][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 116,783ms to complete.
+[2018.08.25-03.34.08:448][  0]LogFileHelpers: Loading map 'TopDownExampleMap' took 0.774
+[2018.08.25-03.34.08:673][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.25-03.34.08:683][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.25-03.34.08:692][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.25-03.34.08:701][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.25-03.34.08:715][  0]LogCollectionManager: Loaded 0 collections in 0.001177 seconds
+[2018.08.25-03.34.08:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Saved/Collections/' took 0.01s
+[2018.08.25-03.34.08:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/Developers/MYCreates/Collections/' took 0.01s
+[2018.08.25-03.34.08:784][  0]LogFileCache: Scanning file cache for directory 'C:/Users/marvi/OneDrive/Documents/Unreal Projects/BrainDead/Content/Collections/' took 0.01s
+[2018.08.25-03.34.08:784][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.08.25-03.34.08:799][  0]LogContentBrowser: Native class hierarchy populated in 0.0132 seconds. Added 2572 classes and 603 folders.
+[2018.08.25-03.34.08:812][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.25-03.34.08:879][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.08.25-03.34.08:891][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.08.25-03.34.08:948][  0]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.08.25-03.34.08:950][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.08.25-03.34.08:960][  0]LogSlate: Took 0.001083 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.08.25-03.34.09:034][  0]LogRenderer: Reallocating scene render targets to support 984x516 Format 10 NumSamples 1 (Frame:1).
+[2018.08.25-03.34.09:092][  0]LogSlate: Took 0.000223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.25-03.34.09:252][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.08.25-03.34.09:252][  0]LogLoad: (Engine Initialization) Total time: 14.40 seconds
+[2018.08.25-03.34.09:252][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.25-03.34.09:502][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.08.25-03.34.09:562][  1]LogAssetRegistry: Asset discovery search completed in 9.8690 seconds
+[2018.08.25-03.34.09:566][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.08.25-03.34.09:567][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000135 seconds (updated 0 objects)
